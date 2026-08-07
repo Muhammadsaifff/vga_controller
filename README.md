@@ -32,7 +32,6 @@ VGA_Project/
 ├── sram.v
 ├── PLL_25MHz.v
 ├── clk_wiz_0_clk_wiz.v
-├── arty.xdc
 ├── tb_vga.v
 └── README.md
 ```
